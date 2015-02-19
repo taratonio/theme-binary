@@ -2438,7 +2438,7 @@ blockquote p {
 }
 blockquote {
   margin: 0;
-  margin-left: 10px;
+  margin-left: 0px;
   margin-bottom: 10px;
   padding: 9px 10px;
   padding: 0.5625rem 10px;
