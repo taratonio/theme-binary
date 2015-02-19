@@ -2634,23 +2634,23 @@ body {
 /* Header */
 .site-header,
 .site-content {
-  margin-bottom: 3px;
+  margin-bottom: 30px;
   margin-bottom: 1.875rem;
 }
 .site-header {
   background: #ffffff;
   border-bottom: solid #000000;
   border-bottom-width: 1px;
-  border-bottom-width: 0.125rem;
+  border-bottom-width: 0.05rem;
   border-top: solid #000000;
   border-top-width: 1px;
-  border-top-width: 0.125rem;
+  border-top-width: 0.05rem;
   border-left: solid #000000;
   border-left-width: 1px;
-  border-left-width: 0.125rem;
+  border-left-width: 0.05rem;
   border-right: solid #000000;
   border-right-width: 1px;
-  border-right-width: 0.125rem;
+  border-right-width: 0.05rem;
   /* Site nav */
 }
 .site-header .header-top {
