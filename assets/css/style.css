@@ -2634,8 +2634,7 @@ body {
 /* Header */
 .site-header,
 .site-content {
-  margin-bottom: 30px;
-  margin-bottom: 1.875rem;
+  margin-bottom: 10px;
 }
 .site-header {
   background: #ffffff;
@@ -2655,11 +2654,10 @@ body {
 }
 .site-header .header-top {
   margin: 0 0 10px;
-  text-align: center;
+  text-align: left;
 }
 .site-header .header-top h1 {
   padding-top: 10px;
-  padding-top: 0.75rem;
   text-transform: uppercase;
 }
 .site-header .header-top h1 a {
@@ -2667,7 +2665,6 @@ body {
 }
 .site-header .header-top h2 {
   padding-top: 5px;
-  padding-top: 0.3125rem;
 }
 .site-header .site-nav {
   height: 30px;
