@@ -1,5 +1,4 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,300italic,400italic,500italic);
-@import url(http://postach.io/static/themes/_assets/symbolset/ss-pika.css);
 html {
   font-family: 'Roboto';
   /* 1 */
@@ -525,7 +524,9 @@ th {
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'FontAwesome';
+  src: url('http://postach.io/static/themes/_assets/fontawesome/font/fontawesome-webfont.eot?v=3.1.0');
+  src: url('http://postach.io/static/themes/_assets/fontawesome/font/fontawesome-webfont.eot?#iefix&v=3.1.0') format('embedded-opentype'), url('http://postach.io/static/themes/_assets/fontawesome/font/fontawesome-webfont.woff?v=3.1.0') format('woff'), url('http://postach.io/static/themes/_assets/fontawesome/font/fontawesome-webfont.ttf?v=3.1.0') format('truetype'), url('http://postach.io/static/themes/_assets/fontawesome/font/fontawesome-webfont.svg#fontawesomeregular?v=3.1.0') format('svg');
   font-weight: normal;
   font-style: normal;
 }
