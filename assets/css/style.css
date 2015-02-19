@@ -2670,8 +2670,8 @@ body {
   padding-top: 0.3125rem;
 }
 .site-header .site-nav {
-  height: 20px;
-  height: 1rem;
+  height: 25px;
+  height: 1.25rem;
   margin-top: 5px;
   margin-top: 0.3rem;
   font-size: 12px;
