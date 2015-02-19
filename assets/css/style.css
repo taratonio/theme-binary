@@ -2658,8 +2658,8 @@ body {
   text-align: center;
 }
 .site-header .header-top h1 {
-  padding-top: 15px;
-  padding-top: 0.9375rem;
+  padding-top: 10px;
+  padding-top: 0.75rem;
   text-transform: uppercase;
 }
 .site-header .header-top h1 a {
