@@ -2329,7 +2329,13 @@ body {
  * ================================ */
 /* Headings */
 h1,
-h2,
+h2 {
+  margin: 24px 0;
+  color: #636363;
+  font-family: 'Roboto';
+  line-height: 1.4;
+  font-weight: normal;
+}
 h3,
 h4,
 h5,
@@ -2341,7 +2347,13 @@ h6 {
   font-weight: normal;
 }
 h1.title,
-h2.title,
+h2.title {
+  margin: 24px 0;
+  color: #636363;
+  font-family: 'Roboto';
+  line-height: 1.4;
+  font-weight: normal;
+}
 h3.title,
 h4.title,
 h5.title,
