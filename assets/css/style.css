@@ -2374,7 +2374,6 @@ h1 {
   font-size: 2.25rem;
 }
 h2 {
-  font-family: 'Roboto';
   font-size: 24px;
   font-size: 1.5rem;
 }
@@ -2676,7 +2675,7 @@ body {
 /* =================================== */
 /* Blog Post (blog feed) */
 .feed-item {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 /* Blog Post (single post) */
 .blog-post,
@@ -2773,7 +2772,7 @@ body {
   text-align: right;
 }
 .post-comment-count {
-  margin-top: 20px;
+  margin-top: 10px;
   margin-top: 1.25rem;
   font-size: 11px;
   font-size: 0.6875rem;
@@ -2909,7 +2908,7 @@ body {
   min-height: 400px;
 }
 .post-tags {
-  margin: 10px 0 0;
+  margin: 0px 0 0;
 }
 .post-readmore {
   float: right;
@@ -3020,7 +3019,7 @@ body {
 }
 /* Sidebar Widgets */
 .widget {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   background: #ffffff;
   padding: 0;
   border-top: solid #000000;
@@ -3068,14 +3067,14 @@ body {
   text-align: center;
 }
 .widget-about .avatar {
-  margin-bottom: 15px;
+  margin-bottom: 0px;
   margin-bottom: 0.9375rem;
 }
 .widget-about ul li {
   border: none;
 }
 .social-links {
-  margin-top: 15px;
+  margin-top: 5px;
   margin-top: 0.9375rem;
   text-align: center;
 }
