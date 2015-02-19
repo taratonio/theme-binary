@@ -2671,11 +2671,8 @@ body {
 }
 .site-header .site-nav {
   height: 30px;
-  height: 2rem;
   margin-top: 5px;
-  margin-top: 0.3rem;
   font-size: 12px;
-  font-size: 0.75rem;
   text-transform: uppercase;
   list-style: none;
 }
