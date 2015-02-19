@@ -1,15 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=EB+Garamond);
-/**
- * Page styles
- */
-/*! normalize.css v3.0.1 | MIT License | git.io/normalize */
-/**
- * 1. Set default font family to sans-serif.
- * 2. Prevent iOS text size adjust after orientation change, without disabling
- *    user zoom.
- */
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,300italic,400italic,500italic);
 html {
-  font-family: sans-serif;
+  font-family: 'Roboto';
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
@@ -188,7 +179,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: 'Roboto';
   font-size: 1em;
 }
 /* Forms
@@ -531,36 +522,9 @@ th {
   font-size: 13px;
   font-size: 0.8125rem;
 }
-/*!
- *  Font Awesome 3.1.0
- *  the iconic font designed for Bootstrap
- *  -------------------------------------------------------
- *  The full suite of pictographic icons, examples, and documentation
- *  can be found at: http://fontawesome.io
- *
- *  License
- *  -------------------------------------------------------
- *  - The Font Awesome font is licensed under the SIL Open Font License v1.1 -
- *    http://scripts.sil.org/OFL
- *  - Font Awesome CSS, LESS, and SASS files are licensed under the MIT License -
- *    http://opensource.org/licenses/mit-license.html
- *  - Font Awesome documentation licensed under CC BY 3.0 License -
- *    http://creativecommons.org/licenses/by/3.0/
- *  - Attribution is no longer required in Font Awesome 3.0, but much appreciated:
- *    "Font Awesome by Dave Gandy - http://fontawesome.io"
 
- *  Contact
- *  -------------------------------------------------------
- *  Email: dave@fontawesome.io
- *  Twitter: http://twitter.com/fortaweso_me
- *  Work: Lead Product Designer @ http://kyruus.com
- */
-/* FONT PATH
- * -------------------------- */
 @font-face {
-  font-family: 'FontAwesome';
-  src: url('http://postach.io/static/themes/_assets/fontawesome/font/fontawesome-webfont.eot?v=3.1.0');
-  src: url('http://postach.io/static/themes/_assets/fontawesome/font/fontawesome-webfont.eot?#iefix&v=3.1.0') format('embedded-opentype'), url('http://postach.io/static/themes/_assets/fontawesome/font/fontawesome-webfont.woff?v=3.1.0') format('woff'), url('http://postach.io/static/themes/_assets/fontawesome/font/fontawesome-webfont.ttf?v=3.1.0') format('truetype'), url('http://postach.io/static/themes/_assets/fontawesome/font/fontawesome-webfont.svg#fontawesomeregular?v=3.1.0') format('svg');
+  font-family: 'Roboto';
   font-weight: normal;
   font-style: normal;
 }
@@ -568,7 +532,7 @@ th {
  * -------------------------- */
 [class^="icon-"],
 [class*=" icon-"] {
-  font-family: FontAwesome;
+  font-family: 'Roboto';
   font-weight: normal;
   font-style: normal;
   text-decoration: inherit;
@@ -2352,7 +2316,7 @@ html {
 body {
   color: #636363;
   line-height: 1.625;
-  font-family: 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', helvetica, arial, sans-serif;
   font-size: 14px;
   font-size: 0.875rem;
   background-color: #808080;
@@ -2369,7 +2333,7 @@ h5,
 h6 {
   margin: 8px 0;
   color: #636363;
-  font-family: 'EB Garamond', Georgia, Times, serif;
+  font-family: 'Roboto';
   line-height: 1.4;
   font-weight: normal;
 }
@@ -2484,7 +2448,7 @@ blockquote {
   font-size: 16px;
   font-size: 1rem;
   font-weight: 400;
-  font-family: "Vollkorn";
+  font-family: 'Roboto';
   line-height: 1.625;
 }
 blockquote cite {
@@ -2571,14 +2535,14 @@ code {
 }
 pre {
   background: #ebebeb;
-  font-family: "Courier 10 Pitch", Courier, monospace;
+  font-family: 'Roboto';
   margin-bottom: 15px;
   margin-bottom: 0.9375rem;
   padding: 15px;
   padding: 0.9375rem;
 }
 code {
-  font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+  font-family: 'Roboto';
 }
 figure {
   margin: 0;
